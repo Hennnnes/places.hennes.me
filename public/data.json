@@ -1,0 +1,21 @@
+[
+	{
+		"city": "London",
+		"country": "UK",
+		"img": "https://images.unsplash.com/photo-1465308452258-70fc6a9b67a8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80",
+		"places": [
+			{
+				"title": "Camden Market",
+				"src": "https://images.unsplash.com/photo-1605181905685-1ec0d054718b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&h=200&q=80"
+			},
+			{
+				"title": "Carnaby",
+				"src": "https://images.unsplash.com/photo-1605181905685-1ec0d054718b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&h=200&q=80"
+			},
+			{
+				"title": "Covent Garden",
+				"src": "https://images.unsplash.com/photo-1605181905685-1ec0d054718b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&h=200&q=80"
+			}
+		]
+	}
+]
