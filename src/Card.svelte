@@ -23,11 +23,11 @@
 
 <style>
 .card {
-  max-width: 400px;
-  margin: 0 auto;
-  box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.2);
-  border-radius: 30px;
-  font-family: sans-serif;
+	max-width: 400px;
+	margin: 0 auto;
+	box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.2);
+	border-radius: 30px;
+	font-family: sans-serif;
 }
 
 .card__image-container {
@@ -43,21 +43,21 @@
 }
 
 .card__content {
-  padding: 20px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-column-gap: 15px;
-  grid-row-gap: 15px;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-column-gap: 15px;
+	grid-row-gap: 15px;
 }
 
 .card__title {
-  font-weight: normal;
-  color: #b1a290;
-  grid-column: span 2;
-  margin: 0;
+	font-weight: normal;
+	color: #b1a290;
+	grid-column: span 2;
+	margin: 0;
 }
 
 .card__title strong {
-  color: #453e37;
+  	color: #453e37;
 }
 </style>
